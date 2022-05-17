@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [marianialessandro.com](marianialessandro.com)
 
-- 📫 How to reach me **alessandromariani@marianialessandro.com**
+- 📫 How to reach me **business@marianialessandro.com**
 
 - ⚡ About me **I am interested in watchmaking**
 
