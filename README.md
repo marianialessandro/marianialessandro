@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an a **Readme generator**
 
-- 🌱 I’m currently learning **React and encryption algorithms**
+- 🌱 I’m currently learning **React and algorithm and data structures
 
 - 👨‍💻 All of my projects are available at [marianialessandro.com](marianialessandro.com)
 
