@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alessan42045415" target="blank"><img src="https://img.shields.io/twitter/follow/alessan42045415?logo=twitter&style=for-the-badge" alt="alessan42045415" /></a> </p>
 
-- 🔭 I’m currently working on an a **Readme generator**
+- 🔭 I’m currently working on an a **Blog about university life**
 
 - 🌱 I’m currently learning **React and algorithm and data structures
 
