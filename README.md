@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marianialessandro" alt="marianialessandro" /></a> </p>
 
-- 🔭 I’m currently working on **UniForum and an educational site**
+- 🔭 I’m currently working on **UniForum** a blog about university life in the city of Pisa and about the courses and an **educational site** where I'm going to publish my notes and algorithm
 
 - 🌱 I’m currently improving my skills **in competitive programming**
 
