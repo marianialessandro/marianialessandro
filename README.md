@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 I'm Alessandro Mariani, a computer science student at the University of Pisa  
   
 
